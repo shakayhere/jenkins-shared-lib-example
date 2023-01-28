@@ -1,6 +1,6 @@
 ## Jenkins shared library example 
 
-The code attached to this repository, is a groovy script that can be used as a Jenkins shared library. 
+The code attached to this repository, is a groovy project that can be used as a Jenkins shared library. 
 
 ### Functions that this library can do
 
